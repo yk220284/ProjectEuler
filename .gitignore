@@ -1,0 +1,6 @@
+# Tables
+*.csv
+
+# unwanted files
+.idea/
+.ipynb_checkpoints/
